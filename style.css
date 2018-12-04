@@ -5,7 +5,7 @@
     background-image: url(https://img00.deviantart.net/36d5/i/2018/240/b/4/modern_background_7_by_viktorgjokaj-dcldllu.jpg);
     }
 
-    .footer {
+.footer {
     padding:10px;
   position: fixed;
   left: 0;
@@ -18,7 +18,7 @@
   }
   
   section#contact {
-    padding: 5% 0;
+    padding: 20px;
     min-height: 300px;
   }  
   .container {
@@ -74,3 +74,11 @@
     padding: 10px;
   }
   
+  .wrapper {
+      min-height: 100%;
+      margin-bottom: -50px;
+  }
+  .footer,
+  .push {
+      height: 50px;
+  }
