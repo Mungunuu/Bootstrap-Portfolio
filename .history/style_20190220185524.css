@@ -43,6 +43,10 @@ section#contact {
   background: rgb(146, 123, 140);
   padding: 20px;
 }
+
+
+
+
 .collapse {
   text-align: right;
 }
@@ -65,15 +69,14 @@ section#contact {
   font-size: 20px;
 }
 
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
 .footer,
 .push {
   height: 50px;
 }
 .navbar {
   background-color: rgb(146, 123, 140);
-}
-
-.navbar-brand {
-  padding:0;
-  margin: 0;
 }
